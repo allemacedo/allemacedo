@@ -75,6 +75,6 @@ Busco sempre aprender mais e evoluir a cada projeto 🚀
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 ![allemacedo GitHub stats](https://github-readme-stats.vercel.app/api?username=allemacedo&show_icons=true&theme=dracula)
