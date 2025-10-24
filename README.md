@@ -1,35 +1,14 @@
 # 👨🏻‍💻 Alessandro Macedo
 
-**`Estudante e Desenvolvedor em Formação`**
+*Estudante e Desenvolvedor em Formação*
 
-Olá! Me chamo **Alessandro Macedo**, tenho **16 anos**, sou natural de **São Paulo (SP)** e atualmente estou cursando o **Ensino Médio**.  
-Estudo **Programação Total no SENAI**, onde desenvolvo minhas habilidades em lógica, front-end, back-end e resolução de problemas.  
-Sou **apaixonado por tecnologia** e pela forma como a programação pode transformar ideias em realidade.  
+Olá! Me chamo *Alessandro Macedo, tenho **16 anos, sou natural de **São Paulo (SP)* e atualmente estou cursando o *Ensino Médio*.  
+Estudo *Programação Total no SENAI*, onde desenvolvo minhas habilidades em lógica, front-end, back-end e resolução de problemas.  
+Sou *apaixonado por tecnologia* e pela forma como a programação pode transformar ideias em realidade.  
 Busco sempre aprender mais e evoluir a cada projeto 🚀  
 
-<p align="left">
-    <a href="https://github.com/allemacedo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/allemacedo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.instagram.com/allemacedo?igsh=MWZ6YW05ZWh1d3Jubw%3D%3D&utm_source=qr">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/allemacedo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/allemacedo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allemacedo?tab=repositories&sort=stargazers)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allemacedo?igsh=MWZ6YW05ZWh1d3Jubw%3D%3D&utm_source=qr)
 
 ---
 
@@ -89,4 +68,13 @@ Busco sempre aprender mais e evoluir a cada projeto 🚀
     title="VSCode" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vs
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>
+
+<br clear="left"/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![allemacedo GitHub stats](https://github-readme-stats.vercel.app/api?username=allemacedo&show_icons=true&theme=dracula)
