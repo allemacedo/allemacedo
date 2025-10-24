@@ -2,7 +2,7 @@
 
 *Estudante e Desenvolvedor em Formação*
 
-Olá! Me chamo *Alessandro Macedo, tenho **16 anos, sou natural de **São Paulo (SP)* e atualmente estou cursando o *Ensino Médio*.  
+Olá! Me chamo Alessandro Macedo, tenho 16 anos, sou natural de São Paulo (SP) e atualmente estou cursando o *Ensino Médio*.  
 Estudo *Programação Total no SENAI*, onde desenvolvo minhas habilidades em lógica, front-end, back-end e resolução de problemas.  
 Sou *apaixonado por tecnologia* e pela forma como a programação pode transformar ideias em realidade.  
 Busco sempre aprender mais e evoluir a cada projeto 🚀  
